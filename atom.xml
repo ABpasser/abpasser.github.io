@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://abpasser.github.io</id>
     <title>ABlog</title>
-    <updated>2020-01-21T02:51:57.151Z</updated>
+    <updated>2020-01-21T03:38:55.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://abpasser.github.io"/>
     <link rel="self" href="https://abpasser.github.io/atom.xml"/>
@@ -10,6 +10,52 @@
     <logo>https://abpasser.github.io/images/avatar.png</logo>
     <icon>https://abpasser.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ABlog</rights>
+    <entry>
+        <title type="html"><![CDATA[网络神器]]></title>
+        <id>https://abpasser.github.io/post/wang-luo-shen-qi</id>
+        <link href="https://abpasser.github.io/post/wang-luo-shen-qi">
+        </link>
+        <updated>2020-01-21T02:53:59.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="整理常用工具">整理常用工具</h2>
+<p>将在线收集工具分类整理，并保持更新。</p>
+<h3 id="运营工具">运营工具</h3>
+<ul>
+<li><a href="http://shangzhibo.tv/">上直播</a><br>
+<code>网络免费直播平台，支持手机作为摄像头</code></li>
+</ul>
+<h3 id="设计工具">设计工具</h3>
+<ul>
+<li>
+<p>星球生成器<br>
+<code>取自优设</code><br>
+<a href="http://alteredqualia.com/xg/examples/nebula_artefact.html">液态星球生成器</a><br>
+<a href="http://www.decrooks.com/">毛线星球生成器</a><br>
+<a href="https://wangyasai.github.io/Play-a-ball/">欧普球生成器</a><br>
+<a href="http://oskarstalberg.com/">Q版星球生成器</a><br>
+<a href="https://pissang.github.io/little-big-city/">立体星球生成器</a><br>
+<a href="https://earth.nullschool.net/">气象地球生成器</a><br>
+<a href="http://planetmaker.wthr.us/#">在线星球生成器</a><br>
+<a href="http://spaceengine.org/download/spaceengine">终极星球生成器</a><br>
+<a href="http://oskarstalberg.com/game/house/index.html">卡通建筑生成器</a></p>
+</li>
+<li>
+<p>图片特效生成器<br>
+<code>取自优设</code><br>
+<a href="http://duotone.shapefactory.co/">双色图片生成器</a><br>
+<a href="http://photomosh.com/">故障艺术生成器</a><br>
+<a href="http://codepen.io/tsuhre/full/BYbjyg">炫光生成器</a><br>
+<a href="http://weavesilk.com/">镜像炫光生成器</a><br>
+<a href="http://codepen.io/pissang/full/geajpX">渐变层生成器</a><br>
+<a href="http://codepen.io/Yakudoo/full/rJjOJx/">流动渐变层生成器</a><br>
+<a href="http://demo.marpi.pl/biomes">体素生成器</a><br>
+<a href="http://pissang.github.io/voxelize-image">图片体素化生成器</a><br>
+<a href="http://pissang.github.io/papercut-box-art">剪纸风格生成器​</a><br>
+<a href="http://wangyasai.github.io/Stars-Emmision">万箭齐发背景生成器</a></p>
+</li>
+</ul>
+<p><a href="http://colorsupplyyy.com/app/">参考色系</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guide引导]]></title>
         <id>https://abpasser.github.io/post/guide-yin-dao</id>
